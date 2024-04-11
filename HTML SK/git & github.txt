@@ -1,0 +1,3 @@
+open terminals
+git init
+git add.
